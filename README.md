@@ -538,8 +538,8 @@ RetailMart-SQL-Analysis/
 │   └── returns_1997_1998.csv
 │
 ├── sql/
-│   ├── data_cleaning.sql
-│   ├── data_validation.sql
+│   ├── data_cleaning&data_validation.sql
+│   ├── EDA.sql
 │   ├── product_analysis.sql
 │   ├── customer_analysis.sql
 │   ├── return_analysis.sql
